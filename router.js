@@ -1,7 +1,16 @@
 
 export function RouteTodo {
 	return {
-	name: "key areas",
-	data: [1, 2, 3]
+	name: "Todo Basic 1",
+	data: [{
+		key: "home",
+		url: "/"
+	},{
+		key: "about",
+		url: "/about"
+	},{
+		key: "contact",
+		url: "/contact"
+	}]
 	}
 }
