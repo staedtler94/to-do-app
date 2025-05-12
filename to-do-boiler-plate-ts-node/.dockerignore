@@ -1,0 +1,18 @@
+# Contents of the file: /typescript-node-mocha-docker/typescript-node-mocha-docker/.dockerignore
+
+node_modules
+dist
+*.log
+*.ts
+*.test.ts
+*.spec.ts
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+README.md
+package.json
+tsconfig.json
+.vscode
+.env
+.env.local
