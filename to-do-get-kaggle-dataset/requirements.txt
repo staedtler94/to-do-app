@@ -1,0 +1,3 @@
+kagglehub[pandas-datasets]
+pymongo[srv]
+python-dotenv

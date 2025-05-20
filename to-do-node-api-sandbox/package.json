@@ -1,0 +1,19 @@
+{
+  "name": "to-do-node-api-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox that helps quickly make api calls to explore different web apps, websites, rss feeds and cloud",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node"
+  ],
+  "author": "siddhesh",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
